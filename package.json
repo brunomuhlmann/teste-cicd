@@ -1,0 +1,9 @@
+{
+  "name": "teste-cicd",
+  "version": "1.0.0",
+  "description": "Teste simples de CI/CD",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
